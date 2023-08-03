@@ -1,6 +1,6 @@
 # Munawarah
 
-![Munawarah Cover Image](assets/images/cover.png)
+![Munawarah Cover Image](cover.png)
 <br>
 
 
@@ -8,17 +8,23 @@
 <br>
 
 <p align="center">
-<img src="store screenshots/iPhone 14 Pro – 1.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 2.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 3.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 4.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 5.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 6.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 7.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 8.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 9.png" width="100"/>
-<img src="store screenshots/iPhone 14 Pro – 10.png" width="100"/>
+<img src="store screenshots/iPhone 14 Pro – 1.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 2.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 3.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 4.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 5.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 6.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 7.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 8.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 9.png" width="200"/>
+<img src="store screenshots/iPhone 14 Pro – 10.png" width="200"/>
 </p>
+
+<br>
+
+> **The app still under heavy development, so some of the features may not work as expected, and some of the features are on our road map and will be implemented sooner.**
+
+<br>
 
 ## What is Munawarah?
 
@@ -68,3 +74,7 @@ With Munawarah, say goodbye to Centralized Feeds, Distractions, Ads and algorith
   - Much more..
 
 Start using Munawarah now, and be part of the future of social networks.
+
+## Download
+
+You can downlaod and try using Munawarah from [the releases page](https://github.com/Munawarah-App/Munawarah/releases/), we recommend you to check it time to time as new releases will be shipped.
