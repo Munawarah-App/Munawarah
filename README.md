@@ -77,7 +77,7 @@ Start using Munawarah now, and be part of the future of social networks.
 
 ## Download
 
-You can downlaod and try using Munawarah from [the releases page](https://github.com/Munawarah-App/Munawarah/releases/), we recommend you to check it time to time as new releases will be shipped.
+You can downlaod and try using Munawarah from [the releases page](https://github.com/Munawarah-App/Munawarah/releases/tag/v0.9.5), we recommend you to check it time to time as new releases will be shipped.
 
 **Or** you can just scan this QR code to be redirected to the latest release page and Download:
 
@@ -85,6 +85,6 @@ You can downlaod and try using Munawarah from [the releases page](https://github
 
 
 <p align="center">
-<img width="150px" src="https://github.com/Munawarah-App/Munawarah/assets/25140579/a10a2849-388d-427d-88b9-17904de9db04" alt="Munawarah QR code" />
+<img width="150px" src="https://github.com/Munawarah-App/Munawarah/assets/25140579/269435ed-fff0-47a5-afaf-e9f2c75bbff8" alt="Munawarah QR code" />
 </p>
 
