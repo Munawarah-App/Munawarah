@@ -85,6 +85,5 @@ You can downlaod and try using Munawarah from [the releases page](https://github
 
 
 <p align="center">
-<img width="150px" src="https://github.com/Munawarah-App/Munawarah/assets/25140579/269435ed-fff0-47a5-afaf-e9f2c75bbff8" alt="Munawarah QR code" />
+<img width="150px" src="https://github.com/Munawarah-App/Munawarah/assets/25140579/2893946c-f858-46af-98df-c38704c4ff6e" alt="Munawarah QR code" />
 </p>
-
